@@ -3,6 +3,76 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:d="http://xamarin.com/schemas/2014/forms/design" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="XamBug.MainPage">
 
     <StackLayout VerticalOptions="Center">
+        
+        <StackLayout Orientation="Horizontal" Spacing="15"
+                     Margin="80,20" Padding="5" BackgroundColor="#00b2a9"
+                     HorizontalOptions="FillAndExpand" VerticalOptions="Center">
+
+            <Label Text="Welcome"
+                   FontSize="24" TextColor="#ffffff" BackgroundColor="#6639b7"
+                   HorizontalOptions="Start" VerticalOptions="CenterAndExpand" />
+
+            <Label Text="⚪"
+                   FontSize="30" TextColor="#ffffff" BackgroundColor="#6639b7"
+                   HorizontalOptions="FillAndExpand" VerticalOptions="Center" HorizontalTextAlignment="Start" />
+
+        </StackLayout>
+        
+        <StackLayout Orientation="Horizontal" Spacing="15"
+                     Margin="80,20" Padding="5" BackgroundColor="#00b2a9"
+                     HorizontalOptions="FillAndExpand" VerticalOptions="Center">
+
+            <Label Text="Welcome to X"
+                   FontSize="24" TextColor="#ffffff" BackgroundColor="#6639b7"
+                   HorizontalOptions="Start" VerticalOptions="CenterAndExpand" />
+
+            <Label Text="⚪"
+                   FontSize="30" TextColor="#ffffff" BackgroundColor="#6639b7"
+                   HorizontalOptions="FillAndExpand" VerticalOptions="Center" HorizontalTextAlignment="Start" />
+
+        </StackLayout>
+        
+        <StackLayout Orientation="Horizontal" Spacing="15"
+                     Margin="80,20" Padding="5" BackgroundColor="#00b2a9"
+                     HorizontalOptions="FillAndExpand" VerticalOptions="Center">
+
+            <Label Text="Welcome to Xam"
+                   FontSize="24" TextColor="#ffffff" BackgroundColor="#6639b7"
+                   HorizontalOptions="Start" VerticalOptions="CenterAndExpand" />
+
+            <Label Text="⚪"
+                   FontSize="30" TextColor="#ffffff" BackgroundColor="#6639b7"
+                   HorizontalOptions="FillAndExpand" VerticalOptions="Center" HorizontalTextAlignment="Start" />
+
+        </StackLayout>
+        
+        <StackLayout Orientation="Horizontal" Spacing="15"
+                     Margin="80,20" Padding="5" BackgroundColor="#00b2a9"
+                     HorizontalOptions="FillAndExpand" VerticalOptions="Center">
+
+            <Label Text="Welcome to Xamrin"
+                   FontSize="24" TextColor="#ffffff" BackgroundColor="#6639b7"
+                   HorizontalOptions="Start" VerticalOptions="CenterAndExpand" />
+
+            <Label Text="⚪"
+                   FontSize="30" TextColor="#ffffff" BackgroundColor="#6639b7"
+                   HorizontalOptions="FillAndExpand" VerticalOptions="Center" HorizontalTextAlignment="Start" />
+
+        </StackLayout>
+        
+        <StackLayout Orientation="Horizontal" Spacing="15"
+                     Margin="80,20" Padding="5" BackgroundColor="#00b2a9"
+                     HorizontalOptions="FillAndExpand" VerticalOptions="Center">
+
+            <Label Text="Welcome to Xamarin.Forms!"
+                   FontSize="24" TextColor="#ffffff" BackgroundColor="#6639b7"
+                   HorizontalOptions="Start" VerticalOptions="CenterAndExpand" />
+
+            <Label Text="⚪"
+                   FontSize="30" TextColor="#ffffff" BackgroundColor="#6639b7"
+                   HorizontalOptions="FillAndExpand" VerticalOptions="Center" HorizontalTextAlignment="Start" />
+
+        </StackLayout>
 
     </StackLayout>
 
